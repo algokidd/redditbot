@@ -1,0 +1,151 @@
+{
+	"instagram": {
+		"username": "memes.terr",
+		"password": "scrapeitupp",
+		"seed": "meme",
+		"credits_in_caption": true,
+		"credits_format": "Follow, Like & Share For more @memes.terr,Mirrored from a post on %subreddit% by : %url%",
+		"restart_every": 1
+	},
+	"reddit": {
+		"subreddits": {
+			"/r/Memes_Of_The_Dank": 50,
+			"/r/memes": 50
+		}
+	},
+	"discord": {
+		"enabled": false,
+		"token": "ENTER_DISCORD_TOKEN_HERE_THEN_ENABLE",
+		"prefix": "!",
+		"channels": {
+			"commands": "ENTER_CHANNEL_ID_HERE",
+			"system": "ENTER_CHANNEL_ID_HERE"
+		}
+	},
+	"schedule": {
+		"human_error": {
+			"min": 20,
+			"max": 320
+		},
+		"hourly_timings": [
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				32,
+				52
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			],
+			[
+				12,
+				42
+			]
+		]
+	}
+}

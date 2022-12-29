@@ -1,0 +1,9 @@
+node_modules
+.vercel
+vercel.json
+procfile
+#heroku buildpacks:set https://github.com/jayzes/heroku-buildpack-ffmpeg
+#heroku buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs
+#https://github.com/SNIPPIK/heroku-youtube-dl.git
+#ffmpeg --enable-libx264
+#https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
